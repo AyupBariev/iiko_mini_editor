@@ -71,7 +71,6 @@
       <None Include="packages.config" />
     </ItemGroup>
     <ItemGroup>
-      <Content Include=".github\workflows\build.yml" />
       <Content Include="lib\Resto.Front.Api.V8.dll" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>

@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a27f135-addf-4988-b401-54fb29570088" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IikoMiniEditor/lib/Resto.Front.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IikoEditor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IikoEditor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IikoMiniEditor/IikoMiniEditor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/IikoMiniEditor/IikoMiniEditor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IikoMiniEditor/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IikoMiniEditor/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763330318770</updated>
-      <workItem from="1763330320094" duration="2965000" />
+      <workItem from="1763330320094" duration="5707000" />
     </task>
     <servers />
   </component>
